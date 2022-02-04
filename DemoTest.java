@@ -3,6 +3,6 @@ import org.junit.*;
 public class DemoTest {
     @Test
     public void multiply() {
-        assertEquals(1, Demo.multiply(2));
+        assertEquals(4, Demo.multiply(2));
     }
 }
